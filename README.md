@@ -84,6 +84,9 @@ I love turning ideas into real-world projects through clean code, creative think
   <a href="https://github.com/Champion222">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://t.me/VaThna_IT">
+    <img src="https://img.shields.io/badge/telegram-181717?style=for-the-badge&logo=telgram&logoColor=sky-blue" />
+  </a>
 </p>
 
 ---
