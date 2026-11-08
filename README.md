@@ -1,35 +1,128 @@
-<div align="center">
+# 👋 Hi, I'm Champion222
 
-  <!-- Animated Typing SVG Header -->
-  <a href="https://github.com/Champion222">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hello+World!+I'm+CHHUON+Udomvathna+👋;Full-Stack+Web+Developer;Building+Modern+Web+Applications+%26+APIs;PHP+%7C+Laravel+%7C+React+%7C+Docker" alt="Typing SVG Banner" />
-  </a>
+### 💻 Full-Stack Developer | Software Developer | Tech Enthusiast
 
-  <p align="center">
-    <b>Full-Stack Developer</b> specializing in backend architectures, modern web systems, and responsive applications.
-  </p>
+Welcome to my GitHub profile! I'm a passionate developer who enjoys building modern websites, applications, backend systems, and exploring new technologies.
 
-  <!-- Live Dynamic Status Badges -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Champion222&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=flat-square" alt="Focus" />
-    <img src="https://img.shields.io/badge/Environment-Linux%20%2F%20Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Environment" />
-    <img src="https://img.shields.io/badge/Status-Building%20Daily-success?style=flat-square" alt="Status" />
-  </p>
-
-</div>
+I love turning ideas into real-world projects through clean code, creative thinking, and continuous learning.
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-```javascript
-const developer = {
-    name: "CHHUON Udomvathna",
-    handle: "Champion222",
-    role: "Full-Stack Web Developer",
-    coreStack: ["PHP", "Laravel", "JavaScript", "React", "Docker"],
-    database: ["MySQL", "MariaDB"],
-    architecture: ["REST APIs", "MVC Pattern", "Containerization"],
-    currentGoal: "Building high-performance production systems and clean code architectures"
-};
+- 💻 Passionate about Software Development
+- 🌐 Interested in Web Development
+- ⚙️ Learning Backend & Full-Stack Development
+- 🐳 Exploring Docker and DevOps
+- 🧠 Always learning new technologies
+- 🎯 Focused on building useful and innovative projects
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express,python,java,cs" />
+</p>
+
+### 🗄️ Database & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase" />
+</p>
+
+### 🐳 DevOps & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,aws,nginx,git,github,vercel,netlify" />
+</p>
+
+### 🔧 Tools & Development Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,figma,github,stackoverflow" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin" />
+</p>
+
+---
+
+## 💡 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,bash" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Champion222&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Champion222&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Champion222&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Champion222&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Champion222&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced Full-Stack Development
+- RESTful APIs & System Architecture
+- Docker & Containerization
+- Cloud Computing with AWS
+- Database Design & Optimization
+- Modern Web Technologies
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Champion222">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Code • Create • Innovate • Repeat</b>
+  <br/>
+  <i>"Great developers never stop learning."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
