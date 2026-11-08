@@ -1,6 +1,6 @@
 # Hi, I'm NxaYGzz
 
-### 💻 Full-Stack Developer | Software Developer | Tech Enthusiast
+### Full-Stack Developer | Software Developer | Tech Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys building modern websites, applications, backend systems, and exploring new technologies.
 
@@ -13,7 +13,7 @@ I love turning ideas into real-world projects through clean code, creative think
 - Passionate about Software Development
 - Interested in Web Development
 - Learning Backend & Full-Stack Development
-- Exploring Docker and DevOps
+- Exploring Docker
 - Always learning new technologies
 - Focused on building useful and innovative projects
 
