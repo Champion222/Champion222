@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Champion222
+# Hi, I'm NxaYGzz
 
 ### 💻 Full-Stack Developer | Software Developer | Tech Enthusiast
 
@@ -8,95 +8,66 @@ I love turning ideas into real-world projects through clean code, creative think
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Passionate about Software Development
-- 🌐 Interested in Web Development
-- ⚙️ Learning Backend & Full-Stack Development
-- 🐳 Exploring Docker and DevOps
-- 🧠 Always learning new technologies
-- 🎯 Focused on building useful and innovative projects
+- Passionate about Software Development
+- Interested in Web Development
+- Learning Backend & Full-Stack Development
+- Exploring Docker and DevOps
+- Always learning new technologies
+- Focused on building useful and innovative projects
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
-### 🌐 Frontend Development
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express,python,java,cs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express,python,java" />
 </p>
 
-### 🗄️ Database & Storage
+### Database & Storage
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase" />
 </p>
 
-### 🐳 DevOps & Deployment
+### DevOps & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws,nginx,git,github,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,github,vercel,netlify" />
 </p>
 
-### 🔧 Tools & Development Environment
+### Tools & Development Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,figma,github,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,github" />
 </p>
 
-### 📱 Mobile Development
+### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
 ---
 
-## 💡 Programming Languages
+## Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cs,dart" />
 </p>
 
----
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Champion222&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Champion222&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Champion222&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Champion222&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Champion222&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - Advanced Full-Stack Development
 - RESTful APIs & System Architecture
@@ -107,7 +78,7 @@ I love turning ideas into real-world projects through clean code, creative think
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/Champion222">
