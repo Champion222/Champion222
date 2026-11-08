@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm [NxaYGzz] 👋
 
-<!--
-**Champion222/Champion222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building fast, scalable applications.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: **[Project Name or Domain]**
+- 🌱 Learning: **[Language/Framework]**
+- 💬 Ask me about: **[Core Stack, e.g., TypeScript, Python, Go, Docker]**
+- 📫 Reach me: **[email@example.com]** | [LinkedIn](https://linkedin.com/in/yourprofile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Python, SQL
+- **Frameworks & Libraries:** React, Node.js, Express, Next.js
+- **Tools & Platforms:** Git, Docker, PostgreSQL, AWS, Linux
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Project 1](https://github.com/username/project-1)** | High-throughput API service | Node.js, Redis, Docker |
+| **[Project 2](https://github.com/username/project-2)** | Real-time analytics dashboard | React, Tailwind, Supabase |
+
+---
